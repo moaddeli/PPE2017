@@ -1,1 +1,8 @@
-http://www.pythonlearn.com
+-   Hans Fangohr, *Introduction to Python for Computational Science and Engineering*, Jupyter Notebooks online at <https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering>
+-   Jake Vanderplas, *A Whirlwind Tour of Python*,  Jupyter Notebooks online at <https://github.com/jakevdp/WhirlwindTourOfPython/>
+-   CS41, *Happy code the python programming language*, Stanford Course <http://stanfordpython.com>
+-   MITx: 6.00.1x, *Introduction to Computer Science and Programming Using Python*, Online Course <https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2>
+-   Charles Russell Severance, *Python for Everybody*. Available online in html at <https://www.py4e.com/>
+-   Allen Downey, *Think Python*. Available online in html and pdf at      <http://www.greenteapress.com/thinkpython/thinkpython.html>
+-   The Python documentation <http://www.python.org/doc/>  
+-   The Python tutorial <http://docs.python.org/tutorial/>
